@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c4396ef-da14-4465-8f37-46f3876a1331" name="Default Changelist" comment="" />
+    <list default="true" id="6c4396ef-da14-4465-8f37-46f3876a1331" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/SignIn/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SignIn/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SignIn/SignIn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SignIn/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/SignIn/login.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +17,16 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\xampp\htdocs\Project\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1V7JtHKuOgCrtdy9ES6zf4Fgc5P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -48,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576598412310</updated>
       <workItem from="1576598413472" duration="1525000" />
+      <workItem from="1576599943037" duration="3313000" />
     </task>
     <servers />
   </component>
@@ -56,12 +73,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="357" key="#Notifications" timestamp="1576599350507">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="357" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1576599350507" />
+    <state x="905" y="293" key="CommitChangelistDialog2" timestamp="1576603456755">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="905" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1576603456755" />
     <state x="1060" y="440" key="FileChooserDialogImpl" timestamp="1576599645366">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -70,10 +93,18 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1114" y="615" width="356" height="170" key="Github.CreateGistDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576599085355" />
-    <state x="1162" y="592" width="260" height="215" key="Github.ShareDialog" timestamp="1576599332699">
+    <state x="1162" y="592" width="260" height="215" key="Github.ShareDialog" timestamp="1576600067456">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1162" y="592" width="260" height="215" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576599332699" />
+    <state x="1162" y="592" width="260" height="215" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576600067456" />
+    <state x="1134" y="404" key="Github.UntrackedFilesDialog" timestamp="1576600071102">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1134" y="404" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576600071102" />
+    <state x="1115" y="622" key="NewPhpFileDialog" timestamp="1576603050774">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1115" y="622" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1576603050774" />
     <state x="781" y="341" key="SettingsEditor" timestamp="1576599493517">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
