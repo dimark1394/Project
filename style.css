@@ -1,0 +1,15 @@
+.signout {
+    position: fixed;
+    left:1200px;
+    top: 0px;
+}
+
+
+
+form {
+    margin: .4rem 0;
+}
+
+#mapid {
+    height: 580px;
+}
