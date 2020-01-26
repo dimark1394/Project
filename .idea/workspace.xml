@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c4396ef-da14-4465-8f37-46f3876a1331" name="Default Changelist" comment="Initial Commit">
+    <list default="true" id="6c4396ef-da14-4465-8f37-46f3876a1331" name="Default Changelist" comment="working admin login">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
     </list>
@@ -64,7 +64,7 @@
       <workItem from="1576598413472" duration="1525000" />
       <workItem from="1576599943037" duration="4098000" />
       <workItem from="1576609837639" duration="1245000" />
-      <workItem from="1580042324750" duration="2699000" />
+      <workItem from="1580042324750" duration="2942000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1576603465566</created>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576603465566</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1580045222090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580045222090</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,17 +89,18 @@
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="working admin login" />
+    <option name="LAST_COMMIT_MESSAGE" value="working admin login" />
   </component>
   <component name="WindowStateProjectService">
     <state x="872" y="357" key="#Notifications" timestamp="1576599350507">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="872" y="357" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1576599350507" />
-    <state x="905" y="293" key="CommitChangelistDialog2" timestamp="1580045204555">
+    <state x="905" y="293" key="CommitChangelistDialog2" timestamp="1580045267895">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="905" y="293" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1580045204555" />
+    <state x="905" y="293" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1040@0.0.2560.1400" timestamp="1580045267895" />
     <state x="905" y="293" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1576603464894" />
     <state x="1060" y="440" key="FileChooserDialogImpl" timestamp="1576599645366">
       <screen x="0" y="0" width="2560" height="1400" />
